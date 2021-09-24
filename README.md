@@ -1,3 +1,4 @@
 # Extra Tweaks
 A minecraft 1.17 mod
-SoonTM
+Work In Progress.
+There isn't that much content
