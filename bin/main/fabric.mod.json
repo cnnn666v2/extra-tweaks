@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "extratweaks",
+  "version": "${version}",
+
+  "name": "Extra Tweaks",
+  "description": "Extra Tweaks is a mod that adds new weapons, blocks, foods and more!",
+  "authors": [
+    "Cnnn666v2 - Github",
+    "Cnnn666#5460 - Discord"
+  ],
+  "contact": {
+    "homepage": "https://cnnn666-games.cf/",
+    "sources": "https://github.com/cnnn666v2/extra-tweaks"
+  },
+
+  "license": "gpl-3.0",
+  "icon": "assets/extratweaks/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "cnnn666v2.extra.tweaks.ExtraTweaks"
+    ]
+  },
+  "mixins": [
+    "extratweaks.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

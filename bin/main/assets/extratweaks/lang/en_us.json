@@ -1,0 +1,10 @@
+{
+    "item.extratweaks.test_item": "Test Item",
+    "item.extratweaks.test_material": "Test Material",
+    "block.extratweaks.test_block": "Test Block",
+    "item.extratweaks.test_sword": "Test Sword",
+    "itemGroup.extratweaks.general": "Extra Tweaks - Items",
+    "itemGroup.extratweaks.blocks": "Extra Tweaks - Blocks",
+    "itemGroup.extratweaks.weapon": "Extra Tweaks - Tools",
+    "itemGroup.extratweaks.material": "Extra Tweaks - Resources"
+}
